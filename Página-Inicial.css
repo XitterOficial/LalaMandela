@@ -1,0 +1,65 @@
+ .u-section-1 {
+  background-image: url("images/ALACOSTEDOSMANDELA-natal.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 731px;
+}
+
+.u-section-1 .u-video-1 {
+  height: 69px;
+  margin-top: 662px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 2929%;
+  top: -1414%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 603px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    height: 2415%;
+    top: -1158%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 462px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    height: 1850%;
+    top: -875%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 347px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    height: 1388%;
+    top: -644%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 218px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    height: 874%;
+    top: -387%;
+  }
+}
